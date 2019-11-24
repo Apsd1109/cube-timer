@@ -2,7 +2,9 @@
 Cube Timer for speed solving Rubik's cubes!
 
 Author: Anda Su
+
 Latest version: V1.0 
+
 Date: 2019-06-17
 
 NOTES
