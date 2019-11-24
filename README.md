@@ -9,6 +9,8 @@ Date: 2019-06-17
 
 NOTES
 
+This is a high school project!
+
 >Documentation:
 
 A user's manual along with code analysis + comments have been included as PDF files. Feel free to read for details!
