@@ -9,7 +9,7 @@ Date: 2019-06-17
 
 NOTES
 
-This is a high school project!
+This was a high school project!
 
 >Documentation:
 
